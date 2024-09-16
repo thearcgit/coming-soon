@@ -928,3 +928,12 @@ section,
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
+
+#company_name{
+  color: rgb(228, 24, 51);
+  font-family: var(--heading-font);
+  font-size: 50px;
+  font-weight: 800;
+  
+}
+
